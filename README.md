@@ -3,7 +3,7 @@
 </p>
 
 # 💫 Hey👋,I am Srideep Sarkar
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on<br>🤝 📫 You can email me at srideeppersonal@gmail.com<br>🌱 I’m currently learning Cloud Computing<br>
+🔭 I’m currently working on Cloud Computing - Load Balancing Research Project<br>👯 I’m looking to collaborate on<br>🤝 📫 You can email me at srideeppersonal@gmail.com<br>🌱 I’m currently learning Full Stack MERN Web Development<br>
 
 
 ## 🌐 Socials:
