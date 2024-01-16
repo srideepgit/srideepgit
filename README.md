@@ -2,7 +2,7 @@
   <img alt="314785" src="https://github.com/srideepgit/srideepgit/assets/91597569/1be311d4-1a75-47b6-94cd-544ac940f942">
 </p>
 
-# 💫 Hey👋,I am Srideep Sarkar:
+# 💫 Hey👋,I am Srideep Sarkar
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on<br>🤝 📫 You can email me at srideeppersonal@gmail.com<br>🌱 I’m currently learning Cloud Computing<br>
 
 
