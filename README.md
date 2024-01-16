@@ -1,4 +1,4 @@
-# 💫 Hey👋,I an Srideep:
+# 💫 Hey👋,I am Srideep:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on<br>🤝 📫 You can email me at srideeppersonal@gmail.com<br>🌱 I’m currently learning Cloud Computing<br>
 
 
